@@ -46,3 +46,21 @@ You are required to submit the following for review:
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+
+-----------------------------------------------------------------------------
+
+https://kbrazier2.github.io/Password_Generator_2_HW07142020/
+
+
+The following is Homework 3 where we were tasked with creating a password generator. The user is prompted to select certain criteria in order to generate a random password using those prefered criteria.
+
+- Created variables for the function writePassword
+- Created prompts, and confirms, to have criteria selected
+- Linked variables from said function to function generatePassword
+- Created arrays for all possible characters
+- Each array contains characters specified for each criteria type
+- Created if statements to determine the user's choice of preferences
+- Used for loops to include math.random in order to generate random characters
+- Created all possible outcomes for if statements
+- Generate button is called when clicked 
