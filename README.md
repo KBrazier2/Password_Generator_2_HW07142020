@@ -64,3 +64,5 @@ The following is Homework 3 where we were tasked with creating a password genera
 - Used for loops to include math.random in order to generate random characters
 - Created all possible outcomes for if statements
 - Generate button is called when clicked 
+
+*** Please note, had to create new Repository called "https://kbrazier2.github.io/Password_Generator_2_HW07142020/" due to relocating files to new directory. Original work used to be in repository called "https://kbrazier2.github.io/Password_Generator_HW07142020/". Initial commit, along with 4 other commits are in said repository. Apologies for confusion!
